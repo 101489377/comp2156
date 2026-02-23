@@ -1,7 +1,7 @@
 {
   "name": "comp2156",
   "version": "1.0.0",
-  "homepage": "https://101489377.github.io/COMP2156",
+  "homepage": "https://101489377.github.io/comp2156",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-},
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/101489377/comp2156.git"
@@ -19,11 +19,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/101489377/comp2156/issues"
   },
-
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
